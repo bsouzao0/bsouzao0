@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1>## Hey 👋</h1>
+
+I am Brenda Sayonara, an IT Student pursuing an AAS in Full Stack Programming
+- 🔭 I’m currently working on building some web pages using HTML, CSS, and JavaScript as part of my college assignments.
+<h2>🌱 I’m currently learning: </h2>
+<b>Central Piedmont Community College:</b>
+<ul>
+    <li>WEB215 – Advanced Markup & Scripting</li>
+    <li>WEB250 – Database Driven Websites</li>
+    <li>CSC154 – Software Development</li>
+    <li>NET126 – Switching and Routing</li>
+    <li>CTS240 – Project Management</li>
+</ul>
+
 
 <!--
 **bsouzao0/bsouzao0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
