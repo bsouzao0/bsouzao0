@@ -1,7 +1,7 @@
 <h1>## Hey 👋</h1>
 
-I am Brenda Sayonara, an IT Student pursuing an AAS in Full Stack Programming
-- 🔭 I’m currently working on building some web pages using HTML, CSS, and JavaScript as part of my college assignments.
+I am Brenda Sayonara, an IT Student pursuing an AAS in Full Stack Programming and an AAS in Cloud & Virtualization Tech
+- 🔭 I’m currently working on building web pages using HTML, CSS, and JavaScript for my college assignments.
 <h2>🌱 I’m currently learning: </h2>
 <b>Central Piedmont Community College:</b>
 <ul>
