@@ -10,6 +10,7 @@ I am Brenda Sayonara, an IT Student pursuing an AAS in Full Stack Programming an
     <li>CSC154 – Software Development</li>
     <li>NET126 – Switching and Routing</li>
     <li>CTS240 – Project Management</li>
+    <li>CTS118 - IS Professional Communication</li>
 </ul>
 
 
