@@ -1,8 +1,8 @@
 <h1>## Hey 👋</h1>
 
-I am Brenda Sayonara, I recently graduated from CPCC with an AAS in Full Stack Programming, and currently I am also pursuing an AAS in Cloud & Virtualization Tech
-- 🔭 I’m currently working on building web pages using HTML, CSS, and JavaScript 
-
+I am Brenda Sayonara. I recently graduated from CPCC with an AAS in Full Stack Programming, and I am also pursuing an AAS in Cloud & Virtualization Tech
+- 🔭 I’m currently working on building web pages using HTML, CSS, and JavaScript
+- 📫 I am looking for Entry-Level Opportunities. If you know of any positions,  you can reach me on LinkedIn. 
 
 
 <!--
